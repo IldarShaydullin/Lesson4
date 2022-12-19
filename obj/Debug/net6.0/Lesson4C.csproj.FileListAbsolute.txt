@@ -1,0 +1,15 @@
+/Users/ildar/Lesson4C/bin/Debug/net6.0/Lesson4C
+/Users/ildar/Lesson4C/bin/Debug/net6.0/Lesson4C.deps.json
+/Users/ildar/Lesson4C/bin/Debug/net6.0/Lesson4C.runtimeconfig.json
+/Users/ildar/Lesson4C/bin/Debug/net6.0/Lesson4C.dll
+/Users/ildar/Lesson4C/bin/Debug/net6.0/Lesson4C.pdb
+/Users/ildar/Lesson4C/obj/Debug/net6.0/Lesson4C.csproj.AssemblyReference.cache
+/Users/ildar/Lesson4C/obj/Debug/net6.0/Lesson4C.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ildar/Lesson4C/obj/Debug/net6.0/Lesson4C.AssemblyInfoInputs.cache
+/Users/ildar/Lesson4C/obj/Debug/net6.0/Lesson4C.AssemblyInfo.cs
+/Users/ildar/Lesson4C/obj/Debug/net6.0/Lesson4C.csproj.CoreCompileInputs.cache
+/Users/ildar/Lesson4C/obj/Debug/net6.0/Lesson4C.dll
+/Users/ildar/Lesson4C/obj/Debug/net6.0/refint/Lesson4C.dll
+/Users/ildar/Lesson4C/obj/Debug/net6.0/Lesson4C.pdb
+/Users/ildar/Lesson4C/obj/Debug/net6.0/Lesson4C.genruntimeconfig.cache
+/Users/ildar/Lesson4C/obj/Debug/net6.0/ref/Lesson4C.dll
